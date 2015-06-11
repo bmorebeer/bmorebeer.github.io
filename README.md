@@ -1,1 +1,1 @@
-# bmorebeer.github.io
+# [bmore.beer](http://bmore.beer)
