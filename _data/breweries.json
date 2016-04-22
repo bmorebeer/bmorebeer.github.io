@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Union Craft Brewing Company",
+    "street": "1700 Union Ave.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21211,
+    "phone": "410-467-0290",
+    "url": "http://www.unioncraftbrewing.com"
+  },
+  {
+    "name": "Stillwater Artisanal Ales",
+    "street": "1028 S Conkling St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21224,
+    "phone": "410-327-0760",
+    "url": "http://www.stillwater-artisanal.com"
+  },
+  {
+    "name": "Independent Brewing Co.",
+    "street": "418 N Main St.",
+    "city": "Bel Air",
+    "state": "Maryland",
+    "zip": 21014,
+    "phone": "410-836-8313",
+    "url": "https://www.independentbrew.com"
+  },
+  {
+    "name": "The Brewer's Art",
+    "street": "1106 N Charles St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21201,
+    "phone": "410-547-6925",
+    "url": "http://www.thebrewersart.com"
+  },
+  {
+    "name": "Pratt Street Ale House",
+    "street": "206 W Pratt St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21201,
+    "phone": "410-244-8900",
+    "url": "http://www.prattstreetalehouse.com"
+  },
+  {
+    "name": "Push American Brewing Company",
+    "street": "6695 Dobbin Rd.",
+    "city": "Columbia",
+    "state": "Maryland",
+    "zip": 21045,
+    "phone": "410-312-4907",
+    "url": "http://www.friscotaphouse.com"
+  },
+  {
+    "name": "DuClaw Brewing Company",
+    "street": "8901 Yellow Brick Rd.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21236,
+    "phone": "443-559-9900",
+    "url": "http://duclaw.com"
+  },
+  {
+    "name": "Full Tilt Brewing",
+    "street": "401 E 30th St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21218,
+    "phone": "410-467-7837",
+    "url": "http://www.fulltiltbrewing.com"
+  },
+  {
+    "name": "Monument City Brewing Company",
+    "street": "401 E 30th St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21218,
+    "phone": "410-467-7837",
+    "url": "http://www.monumentcitybrewing.com"
+  },
+  {
+    "name": "Heavy Seas Beer",
+    "street": "4615 Hollins Ferry Rd.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21227,
+    "phone": "410-247-7822",
+    "url": "http://www.hsbeer.com"
+  },
+  {
+    "name": "Manor Hill Brewing",
+    "street": "4411 Manor Ln.",
+    "city": "Ellicott City",
+    "state": "Maryland",
+    "zip": 21042,
+    "phone": "410-215-4001",
+    "url": "http://manorhillbrewing.com"
+  },
+  {
+    "name": "White Marsh Brewing Company",
+    "street": "8149 Honeygo Blvd.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21236,
+    "phone": "410-931-7827",
+    "url": "http://www.redbrickstation.com"
+  },
+  {
+    "name": "Ellicott Mills Brewing Company",
+    "street": "8308 Main St.",
+    "city": "Ellicott City",
+    "state": "Maryland",
+    "zip": 21043,
+    "phone": "410-313-8141",
+    "url": "http://www.ellicottmillsbrewing.com"
+  },
+  {
+    "name": "Raven Beer",
+    "street": "401 E 30th St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21218,
+    "phone": "443-847-6223",
+    "url": "http://www.ravenbeer.com"
+  },
+  {
+    "name": "Public Works Ale",
+    "street": "401 E 30th St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21218,
+    "phone": "410-467-7837",
+    "url": "http://publicworksale.com"
+  },
+  {
+    "name": "Waverly Brewing Company",
+    "street": "1625 Union Ave",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21211,
+    "phone": "443-438-5765",
+    "url": "http://waverlybrewingcompany.com"
+  },
+  {
+    "name": "Diamondback Beer",
+    "street": "605 S Talbot St.",
+    "city": "St. Michaels",
+    "state": "Maryland",
+    "zip": 21663,
+    "phone": "443-904-1791",
+    "url": "http://www.diamondbackbeer.com"
+  },
+  {
+    "name": "Bare Bones Grill & Brewery",
+    "street": "9150 Baltimore National Pike",
+    "city": "Ellicott City",
+    "state": "Maryland",
+    "zip": 21042,
+    "phone": "410-461-0770",
+    "url": "http://www.barebonesgrill.com"
+  },
+  {
+    "name": "Dempsey’s Brew Pub & Restaurant",
+    "street": "555 Russell St.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21230,
+    "phone": "410-843-7901",
+    "url": "http://www.dempseysbaltimore.com"
+  },
+  {
+    "name": "Oliver Brewing Co.",
+    "street": "4216 Shannon Dr.",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "zip": 21213,
+    "phone": "unknown",
+    "url": "http://oliverbrewingco.com"
+  }
+]
